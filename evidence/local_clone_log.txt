@@ -1,0 +1,9 @@
+Фактически выполненная команда локального клонирования:
+git clone --branch main "PZ4_GitHub_Collaboration" "PZ4_local_clone_example"
+
+Вывод Git:
+Cloning into '/mnt/data/_git_practicals_work/PZ4_local_clone_example'...
+done.
+
+
+ВНИМАНИЕ: это локальное клонирование, не доказательство клонирования с GitHub.
